@@ -5,7 +5,7 @@ An E-Learning platform designed for users interested in learning various topics.
 
 ## 🚀 Demo
 
-[Link to the live demo](#) <!-- Add your live link here -->
+[Link to the live demo](#)  https://e-learning-zeta-teal.vercel.app/
 
 ## 📌 Features
 
